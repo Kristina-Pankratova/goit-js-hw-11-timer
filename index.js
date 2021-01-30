@@ -1,4 +1,4 @@
-import { CountdownTimer } from './js/countDownTimer.js';
+import { CountdownTimer } from './Js/countDownTimer.js';
 
 const countDownTimer = new CountdownTimer({
     selector: '#timer-1',
